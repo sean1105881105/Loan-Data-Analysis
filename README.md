@@ -44,7 +44,6 @@
 本專案除了 Python 底層建模外，更將預測結果與商業分析視覺化，開發為決策層專用的互動式儀表板。
 👉 **[點擊此處或下方圖片，前往 Tableau Public 體驗完整互動功能](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)**
 
-[![Tableau Dashboard Preview](<img width="1404" height="789" alt="儀表板截圖" src="https://github.com/user-attachments/assets/b217ddf1-2f4d-4de5-8389-1e546284f8b8" />
-)](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)
+[![Tableau Dashboard Preview](https://github.com/user-attachments/assets/b217ddf1-2f4d-4de5-8389-1e546284f8b8)](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)
 
 *(提示：您可以在儀表板中自由篩選客群條件，即時觀察不同維度下的風險變化。)*
