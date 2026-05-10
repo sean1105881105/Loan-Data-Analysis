@@ -39,3 +39,11 @@
 ## <a id="files"></a>專案檔案說明
 * `Loan payments data.csv`：原始分析資料集。
 * `Kaggle數據分析.ipynb`：包含完整 EDA、統計分析、模型訓練與互動系統實作的 Python 程式碼。
+
+* ## 📊 Tableau 互動式風險儀表板 (Interactive Dashboard)
+本專案除了 Python 底層建模外，更將預測結果與商業分析視覺化，開發為決策層專用的互動式儀表板。
+👉 **[點擊此處或下方圖片，前往 Tableau Public 體驗完整互動功能](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)**
+
+[![Tableau Dashboard Preview](這裡貼上你的儀表板截圖網址)](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)
+
+*(提示：您可以在儀表板中自由篩選客群條件，即時觀察不同維度下的風險變化。)*
