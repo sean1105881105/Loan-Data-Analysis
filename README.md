@@ -36,11 +36,11 @@
 業務人員可直接輸入客戶條件 (如：年齡、學歷、借款本金)，系統將即時透過訓練好的邏輯斯迴歸模型，輸出預測違約機率，並自動給予「核貸、婉拒或常規審查」等業務決策建議。
 > 詳細運作邏輯與程式碼，請參閱本專案之 `Kaggle數據分析.ipynb` 檔案結尾處。
 
-## <a id="files"></a>Tableau儀表板
+## <a id="files"></a>專案檔案說明
 * `Loan payments data.csv`：原始分析資料集。
 * `Kaggle數據分析.ipynb`：包含完整 EDA、統計分析、模型訓練與互動系統實作的 Python 程式碼。
 
-## <a id="tableau"></a>專案檔案說明
+## <a id="tableau"></a>Tableau儀表板
 本專案除了 Python 底層建模外，更將預測結果與商業分析視覺化，開發為決策層專用的互動式儀表板。
 👉 **[點擊此處或下方圖片，前往 Tableau Public 體驗完整互動功能](https://public.tableau.com/app/profile/.42574808/viz/Loan_Data_17784055518220/1?publish=yes)**
 
